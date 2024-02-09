@@ -1,0 +1,48 @@
+.team-page {
+    padding: 80px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .member-image {
+    width: 215px; 
+    height: auto; 
+    padding-left: 0%;
+  }
+  
+
+  
+  
+  
+  .team-page-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .team-members {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .team-member {
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #181212;
+    border-radius: 5px;
+    background-color: #dbcfcf;
+    text-align: center;
+  }
+  
+  .member-name {
+    font-size: 18px;
+  }
+  
+  .member-position {
+    font-style: italic;
+    color: #666;
+  }
+
+
+
+  
